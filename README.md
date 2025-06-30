@@ -5,7 +5,7 @@
 This site serves as a hub for my projects, publications, and research updates.  
 Feel free to explore and get in touch.
 
-🌐 **Live site:** [https://chencheng.github.io](https://chencheng.github.io)
+🌐 **Live site:** [Chen's HP]https://chencheng-976.github.io/homepage/)
 
 ## 📄 Contents
 - About Me
