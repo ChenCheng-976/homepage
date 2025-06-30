@@ -1,6 +1,6 @@
 # cheng chen
 
-👋 Welcome to my personal homepage!
+Welcome to my personal homepage!
 
 This site serves as a hub for my projects, publications, and research updates.  
 Feel free to explore and get in touch.
@@ -9,12 +9,14 @@ Feel free to explore and get in touch.
 
 ## 📄 Contents
 - About Me
-- Research Interests
+- Education
+- Employment History
 - Publications
-- Projects
-- Contact
-
-## 🚀 How to Use
-Simply visit the live link above. This site is hosted via [GitHub Pages](https://pages.github.com/).
-
-## 📁 Repository Structure
+- Patents
+- Invited Talks
+- Presentations
+- Research Grants
+- Reviewer
+- Honor and Awards
+- Certifications & Qualifications
+- News
