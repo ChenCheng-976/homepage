@@ -1,4 +1,4 @@
-# cheng chen
+# Chen's Homepage
 
 Welcome to my personal homepage!
 
